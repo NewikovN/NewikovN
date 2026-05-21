@@ -24,6 +24,6 @@ Vladimir State University, 2024
 
 ---
 
-Site - [https://android-developer.pages.dev/](https://android-developer.pages.dev/)
+Site - [https://android-developer.pages.dev/](https://android-developer.pages.dev/)   
 Telegram — [@pepelnew](https://t.me/pepelnew)  
 Email — itrade4500@gmail.com
